@@ -2,6 +2,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudeep-nagda/)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:sudeep123nagda@gmail.com)
+[![Website Badge](https://img.shields.io/badge/Portfolio-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sudeepnagda.vercel.app/)
 [![Codepen](https://img.shields.io/badge/-Codepen-000000?style=flat&logo=Codepen&logoColor=white)](https://codepen.io/Sudeep-Nagda)
 [![](https://visitcount.itsvg.in/api?id=SudeepNagda&icon=8&color=0)](https://visitcount.itsvg.in)
 
